@@ -1,0 +1,7 @@
+Beschrijf in je eigen woorden wat een web service is (2 punten).
+
+WebServices zijn manieren om systemen die met elkaar kunnen communiceren, door middel van tekst files (vooral XML en JSON). Het maakt hier niet uit wat voor systeem het is of welk operating system het gebruikt zolang de software online beschikbaar is -> verschillende applicaties die kunnen samenwerken.
+
+Leg ook uit wat het verband is met Service Oriented Architecture (1 punt).
+
+Is een architectuur die focust op het bouwen van simpele systemen die losgekoppeld zijn van elkaar en deze dan combineren aan de hand van verschillende webservices om zo een coherent resultaat te bekomen
